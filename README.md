@@ -1,6 +1,6 @@
 # Image-CRUD-Laravel-8
 
-Recordar cmabiar a la rama master para pullear
+Recordar cambiar a la rama #master para pullear
 
  [Enlace de Editor](https://stackedit.io/app#)
 
